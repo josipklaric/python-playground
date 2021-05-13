@@ -1,2 +1,2 @@
 # python-playground
-Playground repository for learning purposes
+Playground repository for learning Python
